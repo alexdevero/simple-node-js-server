@@ -1,0 +1,36 @@
+{
+  "name": "simple-nodejs-server",
+  "version": "0.0.1",
+  "description": "Simple node.js server playground",
+  "main": "index.js",
+  "engines": {
+    "node": "7.x",
+    "npm": "4.x"
+  },
+  "keywords": [
+    "node.js",
+    "node",
+    "javascript",
+    "server",
+    "gulp",
+    "babel"
+  ],
+  "scripts": {
+    "build": "build",
+    "start": "start",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexdevero/Simple-Node.js-Server.git"
+  },
+  "author": {
+    "name": "Alex Devero",
+    "url": "https://github.com/alexdevero"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexdevero/Simple-Node.js-Server/issues"
+  },
+  "homepage": "https://github.com/alexdevero/Simple-Node.js-Server#readme"
+}
