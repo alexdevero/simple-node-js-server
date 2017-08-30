@@ -1,7 +1,7 @@
 {
-  "name": "simple-nodejs-server",
+  "name": "simple-node-js-server",
   "version": "0.0.1",
-  "description": "Simple node.js server playground",
+  "description": "Simple node.js server ready to use",
   "main": "index.js",
   "engines": {
     "node": ">=7.x",
