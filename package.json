@@ -36,9 +36,9 @@
   },
   "homepage": "https://github.com/alexdevero/Simple-Node.js-Server#readme",
   "devDependencies": {
-    "babel-cli": "^6.24.1",
+    "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.0",
-    "babel-register": "^6.24.1",
+    "babel-register": "^6.26.0",
     "mocha": "^3.5.0",
     "nodemon": "^1.11.0"
   }
