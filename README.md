@@ -15,4 +15,35 @@
 </p>
 
 # Simple-Node.js-Server
-Simple Node.js server playground
+Simple Node.js server ready to use.
+
+### Install all dependencies
+```
+npm install
+or
+yarn
+```
+
+### Start project on local server (go to localhost:1337)
+```
+npm start
+or
+yarn start
+open http://localhost:1337
+```
+
+## Build project
+```
+npm run build
+```
+
+## Preview build
+```
+npm run serve
+open http://localhost:1337
+```
+
+## Run test
+```
+npm run test
+```
