@@ -20,7 +20,7 @@
     "build": "babel src -d dist",
     "start": "nodemon src/index.js --exec babel-node",
     "serve": "node dist/index.js",
-    "test": "mocha --compilers js:babel-register"
+    "test": "mocha --require babel-register --exit"
   },
   "repository": {
     "type": "git",
