@@ -1,17 +1,23 @@
-# Development folders & files #
-###############################
+# Development folders and files #
+#################################
 .tmp/
 dist/
 node_modules/
 
+# Folder config file #
+######################
+Desktop.ini
+
 # Folders for inspiration & notes #
 ###################################
-_moodboard/
-_notes/
+_ignore/
 
-# Log files #
-#############
+# Log files & folders #
+#######################
+logs/
 *.log
+npm-debug.log*
+.npm
 
 # Packages #
 ############
@@ -31,3 +37,13 @@ _notes/
 *.ai
 *.eps
 *.psd
+
+# Windows & Mac file caches #
+#############################
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Windows shortcuts #
+#####################
+*.lnk
