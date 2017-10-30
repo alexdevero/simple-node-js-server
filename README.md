@@ -1,4 +1,4 @@
-<!-- [![Build Status](https://circleci.com/gh/alexdevero/Simple-Node.js-Server.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/alexdevero/Simple-Node.js-Server/) -->
+﻿<!-- [![Build Status](https://circleci.com/gh/alexdevero/Simple-Node.js-Server.svg?style=shield&circle-token=:circle-token)](https://circleci.com/gh/alexdevero/Simple-Node.js-Server/) -->
 
 <p align="center">
   <a href="https://david-dm.org/alexdevero/Simple-Node.js-Server"><img alt="Dependency Status" src="https://david-dm.org/alexdevero/Simple-Node.js-Server.svg?style=flat"></a>
@@ -57,11 +57,13 @@ yarn start
 ```
 
 ### Build project
+
 ```
 npm run build
 ```
 
 ### Preview build (go to localhost:1337)
+
 ```
 npm run serve
 ```
