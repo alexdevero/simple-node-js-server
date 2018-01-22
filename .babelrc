@@ -4,7 +4,13 @@
       "env",
       {
         "targets": {
-          "browsers": ["last 4 versions", "ie >= 9"]
+          "browsers": [
+            "Firefox >= 48",
+            "Chrome >= 54",
+            "ie >= 9",
+            "last 4 versions",
+            "Safari >= 8"
+          ]
         }
       }
     ]
